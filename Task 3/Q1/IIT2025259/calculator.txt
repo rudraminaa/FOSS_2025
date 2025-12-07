@@ -1,0 +1,3 @@
+What is a calculator?
+A calculator is a device used to perform calculations (arithmatic operations).
+They are used because our little brains do not have enough grey cells to compute 1 + 1.
