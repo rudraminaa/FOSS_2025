@@ -1,0 +1,1 @@
+Calculator is a machine which solves mathematical calculations.
